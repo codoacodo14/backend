@@ -1,4 +1,4 @@
-isbn,tipo_texto,titulo,autor,editorial,fecha_edicion,lugar_edicion,materia,fecha_alta
+ISBN,Tipo_Texto,Título,Autor,Editorial,Fecha_Edición,Lugar_Edición,Materia,Fecha_Alta
 .,LITERATURA,Antología poética,"Marechal, Leopoldo (1900-1970); Andrés, Alfredo (comp. y prol.)",Aguilar,1969,Buenos Aires,- LITERATURA ARGENTINA-POESIA,31/07/2001
 950-515-107-1,LITERATURA,De mala muerte,"Abós, Álvaro (1941-...)",De la Flor,1986,Buenos Aires,- LITERATURA ARGENTINA-CUENTO,01/03/1996
 84-261-0664-1,TEXTO NO LITERARIO,Confesiones,"Agustín, Santo (354-430); Esclassana, A. (trad.)",Juventud,1986,Barcelona,AGUSTIN FILOSOFIA-AGUSTIN SANTO -,01/03/1996
@@ -167,6 +167,7 @@ isbn,tipo_texto,titulo,autor,editorial,fecha_edicion,lugar_edicion,materia,fecha
 .,TEXTO NO LITERARIO,Dictionnaire français-espagnol,"Toro y Gisbert, Miguel de",Larousse,1966,Buenos Aires,  FRANCES-ESPAÑOL-DICCIONARIO ESPAÑOL-FRANCES-DICCIONARIO,07/03/1996
 84-283-0334-7,TEXTO NO LITERARIO,Diccionario técnico francés-español,"Malgorn, Guy",Paraninfo,1973,Madrid, FRANCES-ESPAÑOL-DICCIONARIO TECNICO,07/03/1996
 .,TEXTO NO LITERARIO,Diccionario francés-español y español-francés,"Martinez Amador, Emilio M.",Sopena,1955,Barcelona,  FRANCES-ESPAÑOL-DICCIONARIO ESPAÑOL-FRANCES-DICCIONARIO,07/03/1996
+.,TEXTO NO LITERARIO,Diccionario francés-español y español-francés,"Salvá, Vicente D. (1786-1894)","Macland, impr.",1950,Buenos Aires,  FRANCES-ESPAÑOL-DICCIONARIO ESPAÑOL-FRANCES-DICCIONARIO,07/03/1996
 84-7153-192-5,TEXTO NO LITERARIO,Diccionario manual griego-español,"Pabón Suárez de Urbina, José Manuel",Biblograf,1993,Barcelona,  GRIEGO-ESPAÑOL-DICCIONARIO ESPAÑOL-GRIEGO-DICCIONARIO,07/03/1996
 .,TEXTO NO LITERARIO,Diccionario guaraní-castellano castellano-guaraní,"Ortiz Mayans, Antonio","Victoria, impr.",1949,Buenos Aires,  GUARANI LINGÜISTICA-DICCIONARIO ESPAÑOL-GUARANI-DICCIONARIO,07/03/1996
 .,TEXTO NO LITERARIO,Diccionario Atlantic inglés-español español-inglés,Sin responsables,Sudamericana,1977,Buenos Aires,  INGLES-ESPAÑOL-DICCIONARIO ESPAÑOL-INGLES-DICCIONARIO,07/03/1996
