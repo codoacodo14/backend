@@ -97,10 +97,10 @@ df.to_csv('library_catalog.csv', index=False)
 df.to_excel("library_catalog.xlsx", index=False)
 
 # Creamos diccionarios para unificar datos repetidos y agregar id sobre las columnas que nos interesan
-autores = {autor: i for i, autor in enumerate(df['Autor'].unique())}
+autores = {autor: i for i, autor in enumerate(df['Autor'].unique(), start=1)}
 editoriales = {editorial: i for i,
-               editorial in enumerate(df['Editorial'].unique())}
-materias = {materia: i for i, materia in enumerate(df['Materia'].unique())}
+               editorial in enumerate(df['Editorial'].unique(), start=1)}
+materias = {materia: i for i, materia in enumerate(df['Materia'].unique(), start=1)}
 
 
 # Copiamos los datos de la tabla original y mapeamos los datos de las columnas que nos interesan por su id
